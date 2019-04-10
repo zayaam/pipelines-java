@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yawersharif/TestProject/_apis/build/status/zayaam.pipelines-java?branchName=master)](https://dev.azure.com/yawersharif/TestProject/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
